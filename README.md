@@ -7,7 +7,7 @@
  I will upload the answer for only easy problems temporarily , after I answered and uploaded all the easy problems , I will upload the next level problems 
 
  If you have other difficulty problems you can ask mee.
- # If the answer is easy to follow , I won't add comment
+ # If the answer is easy to follow , I won't add the comment
  # 可以很快看出做法的答案不會加入註解
  這邊是利用C++寫的LeetCode答案，緩慢更新中。
  
