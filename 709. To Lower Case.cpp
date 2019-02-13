@@ -10,3 +10,4 @@ public:
         return temp;
     }
 };
+//beats 100% in C++
